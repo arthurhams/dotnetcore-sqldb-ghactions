@@ -53,7 +53,7 @@
     },
     "hostingPlanName": {
       "type": "string",
-      "defaultValue": "F1",
+      "defaultValue": "asphp",
       "metadata": {
         "description": "hostingPlanName"
       }
